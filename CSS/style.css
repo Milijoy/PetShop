@@ -1,0 +1,27 @@
+header{
+    background-color: black;
+    color:white;
+    width: auto;
+}
+    
+.principal { background-color: #F0A83E;
+        color: white;
+        width: auto;
+    }
+
+.banner{height:409px;
+background-image: url('https://s3-alpha-sig.figma.com/img/53ec/2946/b101b9298925dcc2ae1d629537e66036?Expires=1649030400&Signature=b252caCRb~4AttOUkv1gJGlqorVuLDVr6nnlelLB3JGcCPMqmBHScl2E7GYuXwcVaEEe2m~Hp5eM7pNUEmsRWH~Yqqre~90AvINx480mSfEJ0Xpa-8IOi7YOeAxgEJ4xHvrXQTRSFReJNmB-2SA~OC3i7-m7GvfVBlePSZSuX3FyqS8lS5rImstvn~-l-uaoaH4V2LmiOC7MWHjjbofPlV62-VqNxQYTLGv3D8SKlej8aeq7o2HvAsYXfb4jNHul7ig0sYMAV715Zu2UG0Y6AeKqcwx68uH0Wx-zrt~iVjqXzllf-kvxIsVJZsYyGXfQ3BTthpVPV4lD0e9zyutevg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA');background-size:cover;text-align: center;}
+
+#nombre { background-color: #F0A83E;color: white;size: 16px;width: 141px;height: 49px;font-family:'Roboto', sans-serif;}
+h1 {font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+#destacado {font-size:40px;font-weight: bold;}
+
+h2{size: 50px;}
+.Productos p {color:#F0A83E;}
+.datos{ background-color: #3C2313;color: white;}
+
+footer{ background-color: #F0A83E;
+text-align: center;
+color: white;}
